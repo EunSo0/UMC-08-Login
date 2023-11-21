@@ -1,5 +1,5 @@
 # UMC_WEB
-5th UMC Web 6주차 서버 자료
+5th UMC Web 6주차 및 8, 9주차 서버 자료
 
 안녕하세용, 혹시 실행 과정 등에서 오류가 생긴다면 회장단 통해서 **섀넌/한상은(중앙 서버 파트장)** 에게 문의해주세요!
 
@@ -36,7 +36,7 @@
 
 ## 접속 방법
 ```
-url: localhost:3000/user/login
+url: localhost:8000/user/login
 method: 'post',
 data: {
   id: 'umcweb',
@@ -45,6 +45,6 @@ data: {
 ```
 
 ## API 확인하고자 할 때
-브라우저에서 **localhost:3000/api-docs** 치기!
+브라우저에서 **localhost:8000/api-docs** 치기!
 어떻게 값을 넣으면 어떤 오류가 나오는지 등 확인할 수 있어용
 response 값 또한 확인하실 수 있습니다.
