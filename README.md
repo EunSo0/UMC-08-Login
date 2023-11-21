@@ -32,7 +32,7 @@
    - npm run start
    - yarn start
 
-  ![image](https://github.com/silvarge/UMC_WEB/assets/140832682/2272dd29-2422-4f64-8a18-44308a0913aa)
+  ![image](https://github.com/silvarge/UMC_WEB/assets/140832682/6906f5e6-8487-4658-bba9-b5e67f2ba1dd)
 
 ## 접속 방법
 ```
