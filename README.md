@@ -1,5 +1,3 @@
-*npm run dev*
-
+**npm run dev**
 or 
-
-npm run server / npm run client
+**npm run server / npm run client**
